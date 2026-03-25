@@ -2,6 +2,7 @@
 MT4/5一拖N跟单系统使用说明（适用于Windows版的MT4/MT5）
 
 安装4步骤，极简。如下：
+
 ①、先安装包里自带的微软运行时库MSVBCRT_AllInOne；
 
 ②、再点击CopyFiles2MT45Folder一键拷贝等待结束；
