@@ -30,11 +30,10 @@
 
 ------------------  特别说明 ----------------
  
- 由于中国国内无法访问Github，所以我放了一个持续更新版本在百度网盘
+ 由于中国国内无法访问Github[https://github.com/linzhihui/MT45TradeCopy]，
+ 所以我放了一个持续更新版本在百度网盘
  百度网盘分享链接如下：
  https://pan.baidu.com/s/1GjZ-GLrH4PvgOpD0HtNkyA?pwd=mt45
- 
- 
  
  
  
