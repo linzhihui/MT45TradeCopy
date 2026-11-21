@@ -1,6 +1,8 @@
 # MT45TradeCopy
 MT4/5一拖N跟单系统使用说明（适用于Windows版的MT4/MT5）
 
+详细操作说明，请参照\doc\跟单系统使用说明V8.0.pdf, 是上手捷径指南
+
 安装4步骤，极简。如下：
 
 ①、先安装包里自带的微软运行时库MSVBCRT_AllInOne；
